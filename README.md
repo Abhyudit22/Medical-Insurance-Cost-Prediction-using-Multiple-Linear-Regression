@@ -27,7 +27,12 @@ The objective of this assignment is to develop a Multiple Linear Regression mode
 
 
 
+
+
+
 <img width="720" height="256" alt="image" src="https://github.com/user-attachments/assets/29b5188c-b943-494b-81fe-29deec65e2ac" />
+<img width="1272" height="507" alt="image" src="https://github.com/user-attachments/assets/0213aea3-c647-46df-8588-7a35a1986d91" />
+<img width="957" height="717" alt="image" src="https://github.com/user-attachments/assets/c6b2932a-4874-48f4-9377-ac2dbf143b4d" />
 
 
 **Factors affecting insurance charges:** Features such as being a smoker, age, and BMI are the most significant drivers of higher insurance costs.
