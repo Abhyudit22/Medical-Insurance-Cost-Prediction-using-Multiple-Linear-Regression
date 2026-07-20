@@ -24,6 +24,13 @@ The objective of this assignment is to develop a Multiple Linear Regression mode
 - **Mean Absolute Error (MAE)**: ~4181.19
 - **Mean Squared Error (MSE)**: ~33596915.85
 - **R² Score**: ~0.7836
+- 
+## Conclusion
+**Key findings:** The Multiple Linear Regression model provides a reasonable baseline for predicting medical insurance charges, achieving an R² score of around 0.78. The model performs well for the majority of individuals with average charges but exhibits higher errors when predicting extreme high-cost outliers.
+
+**Factors affecting insurance charges:** Features such as being a smoker, age, and BMI are the most significant drivers of higher insurance costs.
+
+**Limitation of Linear Regression for this problem:** One major limitation of Linear Regression is its assumption of a strictly linear and additive relationship between the features and the target variable. In reality, the interaction between features (e.g., the compounded effect of smoking combined with a high BMI) often has a non-linear effect on medical charges, which a basic linear model fails to capture effectively.
 
 
 
@@ -34,7 +41,3 @@ The objective of this assignment is to develop a Multiple Linear Regression mode
 <img width="1272" height="507" alt="image" src="https://github.com/user-attachments/assets/0213aea3-c647-46df-8588-7a35a1986d91" />
 <img width="957" height="717" alt="image" src="https://github.com/user-attachments/assets/c6b2932a-4874-48f4-9377-ac2dbf143b4d" />
 
-
-**Factors affecting insurance charges:** Features such as being a smoker, age, and BMI are the most significant drivers of higher insurance costs.
-
-**Limitation of Linear Regression for this problem:** One major limitation of Linear Regression is its assumption of a strictly linear and additive relationship between the features and the target variable. In reality, the interaction between features (e.g., the compounded effect of smoking combined with a high BMI) often has a non-linear effect on medical charges, which a basic linear model fails to capture effectively.
