@@ -24,10 +24,9 @@ The objective of this assignment is to develop a Multiple Linear Regression mode
 - **Mean Absolute Error (MAE)**: ~4181.19
 - **Mean Squared Error (MSE)**: ~33596915.85
 - **R² Score**: ~0.7836
-*(Actual values may vary slightly based on random state during data split).*
 
-## Conclusion
-**Key findings:** The Multiple Linear Regression model provides a reasonable baseline for predicting medical insurance charges, achieving an R² score of around 0.78. The model performs well for the majority of individuals with average charges but exhibits higher errors when predicting extreme high-cost outliers.
+
+
 <img width="720" height="256" alt="image" src="https://github.com/user-attachments/assets/29b5188c-b943-494b-81fe-29deec65e2ac" />
 
 
